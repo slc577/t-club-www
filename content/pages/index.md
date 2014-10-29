@@ -15,7 +15,7 @@ Name: <input type="text" name="name">
 </form>
 </center>
 
-Anyone can announce [submit job information or postings](https://docs.google.com/spreadsheet/viewform?formkey=dEE0MThyejBaQ1NxSWxDeHlacVY1Z1E6MQ) or [transportation-related events](eventi.html) to be included in the digest. [List information and archives](http://mailman.mit.edu/mailman/listinfo/transportclub).
+Anyone can announce [submit job postings or transportation-related events](https://docs.google.com/forms/d/1gobnpPHKaP2h51ECSFJFWUi_eVNMbKUgTk8fhzc58aw/viewform) to be included in the digest. [More information and list archives](http://mailman.mit.edu/mailman/listinfo/transportclub).
 
 ## 5th Transportation Showcase
 Contact [transportation.showcase@mit.edu](mailto:transportation.showcase@mit.edu) and **[read more…]({filename}/pages/showcase/2015.md)**
