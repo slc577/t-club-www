@@ -10,10 +10,12 @@ PATH = 'content'
 THEME = 'pelican-bootstrap3'
 
 CUSTOM_CSS = 'static/custom.css'
-STATIC_PATHS = ['image', 'extra/custom.css']
+STATIC_PATHS = ['image', 'extra/custom.css', 'extra/htaccess']
 
 EXTRA_PATH_METADATA = {
-    'extra/custom.css': {'path': 'static/custom.css'}
+    'extra/custom.css': {'path': 'static/custom.css'},
+    'extra/htaccess': {'path': '.htaccess'},
+    'image/logo.ico': {'path': 'favicon.ico'}
     }
 
 TIMEZONE = 'America/New_York'

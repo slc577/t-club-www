@@ -1,6 +1,7 @@
 Title:
-url: /
-save_as: index.html
+URL:
+Slug: index
+Save_as: index.html
 
 <img src="/image/logo/t-club.png" alt="T-Club logo" style="width:635px"/>
 
