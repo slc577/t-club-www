@@ -26,4 +26,4 @@ Join us Spring 2015 at the MIT Museum!
 ## Transportation Seminar Series
 Contact [tzhang@MIT.EDU](mailto:tzhang@MIT.EDU) or [doufene@MIT.EDU](mailto:doufene@MIT.EDU), and **[read more…]({category}seminars)**
 
-With Transportation@MIT, we present seminars by MIT faculty and external guests on innovative topics in the transportation field. The **next seminar** is [October 31 — Prof. Yueyue Fan (UC Davis)]({filename}/2014-10-31-yueyue-fan.md).
+With Transportation@MIT, we present seminars by MIT faculty and external guests on innovative topics in the transportation field. The **next seminar** is [December 05 — Prof. Amro Farid (Masdar Institute of Science & Technology)]({filename}/2014-12-05-amro-farid.md).
