@@ -19,9 +19,9 @@ Name: <input type="text" name="name">
 Anyone can [submit job postings or transportation-related events](https://docs.google.com/forms/d/1gobnpPHKaP2h51ECSFJFWUi_eVNMbKUgTk8fhzc58aw/viewform) to be included in the digest. [More information and list archives](http://mailman.mit.edu/mailman/listinfo/transportclub).
 
 ## 5th Transportation Showcase
-Contact [transportation.showcase@mit.edu](mailto:transportation.showcase@mit.edu) and **[read more…]({filename}/pages/showcase/2015.md)**
+[<img src="/image/showcase/2015-poster-crop.png" alt="2015 Showcase Poster" style="width:635px"/>]({filename}/pages/showcase/2015.md)
 
-Join us Spring 2015 at the MIT Museum!
+Click to **[read more…]({filename}/pages/showcase/2015.md)**
 
 ## Transportation Seminar Series
 Contact [tzhang@MIT.EDU](mailto:tzhang@MIT.EDU) or [doufene@MIT.EDU](mailto:doufene@MIT.EDU), and **[read more…]({category}seminars)**
