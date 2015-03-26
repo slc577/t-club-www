@@ -1,7 +1,7 @@
-Title:
+title: Home
 URL:
-Slug: index
-Save_as: index.html
+slug: index
+save_as: index.html
 
 <img src="/image/logo/t-club.png" alt="T-Club logo" style="width:635px"/>
 
@@ -19,11 +19,11 @@ Name: <input type="text" name="name">
 Anyone can [submit job postings or transportation-related events](https://docs.google.com/forms/d/1gobnpPHKaP2h51ECSFJFWUi_eVNMbKUgTk8fhzc58aw/viewform) to be included in the digest. [More information and list archives](http://mailman.mit.edu/mailman/listinfo/transportclub).
 
 ## 5th Transportation Showcase
-[<img src="/image/showcase/2015-poster-crop.png" alt="2015 Showcase Poster" style="width:635px"/>]({filename}/pages/showcase/2015.md)
+[<img src="{filename}/image/showcase/2015-poster-crop.png" alt="2015 Showcase Poster" style="width:635px"/>]({filename}/pages/showcase/2015.md)
 
 Click to **[read more…]({filename}/pages/showcase/2015.md)**
 
 ## Transportation Seminar Series
 Contact [tzhang@MIT.EDU](mailto:tzhang@MIT.EDU) or [doufene@MIT.EDU](mailto:doufene@MIT.EDU), and **[read more…]({category}seminars)**
 
-With Transportation@MIT, we present seminars by MIT faculty and external guests on innovative topics in the transportation field. The **next seminar** is [December 05 — Prof. Amro Farid (Masdar Institute of Science & Technology)]({filename}/2014-12-05-amro-farid.md).
+With Transportation@MIT, we present seminars by MIT faculty and external guests on innovative topics in the transportation field.
