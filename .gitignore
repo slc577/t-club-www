@@ -4,6 +4,7 @@ content/file/*.pdf
 content/image/**/*.jpg
 content/image/**/*.png
 content/image/logo.ico
+content/image/logo/raw/*
 output
 *.pid
 fabfile.py

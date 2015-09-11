@@ -7,7 +7,7 @@ SITENAME = 'MIT Transportation Club'
 SITEURL = ''
 
 PATH = 'content'
-THEME = 'pelican-bootstrap3'
+THEME = '../pelican-themes/pelican-bootstrap3'
 
 CUSTOM_CSS = 'static/custom.css'
 STATIC_PATHS = ['image', 'extra/custom.css', 'extra/htaccess']
