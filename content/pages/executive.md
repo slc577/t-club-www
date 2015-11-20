@@ -1,29 +1,21 @@
 Title: Executive Board
 slug: executive
 
-![2015-2016 Executive Board](/image/board/2014-2015.jpg)
+![2015-2016 Executive Board](/image/board/2015-2016.jpg)
 
 ## Co-Presidents: Caroline Jaffe & Alex Salz
 
-**[Caroline Jaffe]()** <[cjaffe at mit dot edu](mailto:cjaffe@MIT.EDU)>
+**[Caroline Jaffe]()** <[cjaffe at mit dot edu](mailto:cjaffe@MIT.EDU)> is a research assistant and S.M. candidate in the Social Computing group at the MIT Media Lab. She graduated from Yale in 2013 with a degree in Electrical Engineering and Computer Science, then spent a year in the Netherlands researching commuting behavior on a Fulbright fellowship. She has also worked as a software engineer at Fitbit, Google and Microsoft. Her research interests include bicycles, urban mobility, and maps. She is also a member of the Cambridge Bicycle Committee. 
 
-Caroline Jaffe is a research assistant and S.M. candidate in the Social Computing group at the MIT Media Lab. She graduated from Yale in 2013 with a degree in Electrical Engineering and Computer Science, then spent a year in the Netherlands researching commuting behavior on a Fulbright fellowship. She has also worked as a software engineer at Fitbit, Google and Microsoft. Her research interests include bicycles, urban mobility, and maps. She is also a member of the Cambridge Bicycle Committee. 
-
-**[Alex Salz]()** <[alexsalz at mit dot edu](mailto:alexsalz@MIT.EDU)>
-
-Alex is a 2nd year masters student in the transportation program. In the past he has conducted research on revenue management strategies for airlines. After interning with Uber this past summer, he is currently looking at the impact of ridesharing operators on urban parking. His favorite mode of transportation is cycling, having biked across Europe two summers ago.
+**[Alex Salz]()** <[alexsalz at mit dot edu](mailto:alexsalz@MIT.EDU)> is a 2nd year masters student in the transportation program. In the past he has conducted research on revenue management strategies for airlines. After interning with Uber this past summer, he is currently looking at the impact of ridesharing operators on urban parking. His favorite mode of transportation is cycling, having biked across Europe two summers ago.
 
 ## Treasurer: Patton Doyle
 
-**[Patton Doyle]()** <[doylep at mit dot edu](mailto:doylep@MIT.EDU)>
-
-Patton is a second year Master of Science in Transportation student from Ann Arbor, Michigan. Growing up near auto-centric Detroit, he is motivated to promote public and private regional mass transportation in his home state, throughout the US, and around the globe. He has worked with Union Pacific Railroad on container security, Ford Motor Company on new mobility research, and with both non-profits and startups on urban redevelopment issues. During summer of 2015, Patton worked with the US DOT Volpe Center to support federal rulemaking. He graduated Phi Beta Kappa with a degree in Interdisciplinary Physics from the University of Michigan and was awarded the Cornwell Prize by the Physics Department for intellectual curiosity and pursuit of original research.
+**[Patton Doyle]()** <[doylep at mit dot edu](mailto:doylep@MIT.EDU)> is a second year Master of Science in Transportation student from Ann Arbor, Michigan. Growing up near auto-centric Detroit, he is motivated to promote public and private regional mass transportation in his home state, throughout the US, and around the globe. He has worked with Union Pacific Railroad on container security, Ford Motor Company on new mobility research, and with both non-profits and startups on urban redevelopment issues. During summer of 2015, Patton worked with the US DOT Volpe Center to support federal rulemaking. He graduated Phi Beta Kappa with a degree in Interdisciplinary Physics from the University of Michigan and was awarded the Cornwell Prize by the Physics Department for intellectual curiosity and pursuit of original research.
 
 ## Vice President, Transportation Showcase
 
-**[Joanna Moody]()** <[jcmoody at mit dot edu](mailto:jcmoody@MIT.EDU)>
-
-Joanna is a second year Master of Science in Transportation student with a Bachelor of Science in Mathematics, Physics, and Japanese from Bates College. At MIT, she has received both a USDOT University Transportation Center Fellowship and the U.S. Department of Transportation FHWA Eisenhower Graduate Fellowship. Also as a member of the [Regional Transportation and High Speed Rail Group](http://web.mit.edu/hsr-group/index.html) Joanna’s research focuses on understanding high-speed rail projects as complex socio-technical systems, with a particular interest in how the technology and infrastructure interface with governing and managing institutions and users. As a member of the JTL Urban Mobility Lab, Joanna explores how implicit or subconscious bias and preference can influence travel behavior and impact transportation planning and operations. Joanna has been accepted to take the Ph.D. qualifying exam for the interdisciplinary Transportation program in January. She plans to continue her research into the impacts of transportation systems, with a focus on stakeholder relationships and distributional considerations.
+**[Joanna Moody]()** <[jcmoody at mit dot edu](mailto:jcmoody@MIT.EDU)> is a second year Master of Science in Transportation student with a Bachelor of Science in Mathematics, Physics, and Japanese from Bates College. At MIT, she has received both a USDOT University Transportation Center Fellowship and the U.S. Department of Transportation FHWA Eisenhower Graduate Fellowship. Also as a member of the [Regional Transportation and High Speed Rail Group](http://web.mit.edu/hsr-group/index.html) Joanna’s research focuses on understanding high-speed rail projects as complex socio-technical systems, with a particular interest in how the technology and infrastructure interface with governing and managing institutions and users. As a member of the JTL Urban Mobility Lab, Joanna explores how implicit or subconscious bias and preference can influence travel behavior and impact transportation planning and operations. Joanna has been accepted to take the Ph.D. qualifying exam for the interdisciplinary Transportation program in January. She plans to continue her research into the impacts of transportation systems, with a focus on stakeholder relationships and distributional considerations.
 
 In addition to her scholarly pursuits, Joanna has interned at Cambridge Systematics and collaborated with the World Bank on a financial case study of freight rail profitability schemes for China National Railways. Joanna served as a co-coordinator of the 2015 Transportation Showcase, in charge of company outreach and career fair organization. She is currently a co-coordinator for the MIT Center for Transportation and Logistics (CTL) Distinguished Speaker Lecture Series. In addition, she has previously served as a student member of the Department of Civil and Environmental Engineering Social Committee and in April of 2015 was selected CEE Student of the Month.
 
@@ -37,7 +29,7 @@ He was a research engineer at the R&D department (Electric Vehicles Program) for
 
 ## Activities Coordinator: Javier Morales Sarriera
 
-Javier is a second-year MST (Master of Science in Transportation) student from Porto Alegre, Brazil. Before coming to MIT, Javier received a master’s degree in economics from Centro de Estudios Monetarios y Financieros (Madrid, Spain) and worked for five years in the World Bank and in the Inter-American Development Bank in Washington DC as an infrastructure economics consultant. He was involved in the economic analysis of transport projects in different locations across Latin America. He is interested in transit policy and planning, particularly in the links between public transportation and economic development.
+**[Javier Morales Sarriera]()** <[javierms at mit dot edu](mailto:javierms@MIT.EDU)> is a second-year MST (Master of Science in Transportation) student from Porto Alegre, Brazil. Before coming to MIT, Javier received a master’s degree in economics from Centro de Estudios Monetarios y Financieros (Madrid, Spain) and worked for five years in the World Bank and in the Inter-American Development Bank in Washington DC as an infrastructure economics consultant. He was involved in the economic analysis of transport projects in different locations across Latin America. He is interested in transit policy and planning, particularly in the links between public transportation and economic development.
 
 ## Website & Media: Nate Bailey
 
