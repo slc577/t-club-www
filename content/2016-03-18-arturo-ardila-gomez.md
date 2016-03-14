@@ -1,0 +1,13 @@
+Title: Sustainable Urban Transport Financing from the Sidewalk to the Subway: Capital, Operation, and Maintenance Financing
+category: seminars
+slug: arturo-ardila-gomez
+
+Arturo Ardila-Gomez<br/>
+Friday, March 18, 2016 — 12:15–1:30 pm (lunch provided at 12:15 pm)<br/>
+[4-163](http://whereis.mit.edu/?go=4-163)
+
+Many cities in developing countries are stuck in an “underfunding trap” for urban transport: up-front investments are huge, while revenue is small. Capital needs cannot be covered, let alone operations and maintenance. In this seminar, Arturo Ardila-Gomez will present his book “Sustainable Urban Transport Financing from the Sidewalk to the Subway: Capital, Operation, and Maintenance Financing.” The book uses an analytical framework based on the concept of “Who Benefits Pays,” and assesses 24 types of financing instruments in terms of their social, economic and environmental impacts and their ability to fund urban transport capital investments, operational expenses, and maintenance. Urban transport financing needs to be based on an appropriate mix of complementary financing instruments, possibly involving multiple levels of government.
+
+## About the speaker
+
+Arturo Ardila-Gomez is Global Lead for Urban Mobility and a Lead Transport Economist and in the World Bank’s Transport and ICT Global Practice. He oversees a portfolio of transport projects and research activities in China, Mongolia, and Ecuador, and provides overall technical support to the East Asia transport portfolio in particular Vietnam. He also supports projects, most notably in Tanzania, and peer reviews extensively for all regions in the Bank. Prior to joining the Bank he was director of the Transportation Studies Group at Los Andes University in Bogota. A former Fulbright scholar, Ardila-Gomez holds a doctorate degree in urban transportation planning and a master's degree in city planning from the Massachusetts Institute of Technology (MIT). He is also a civil engineer and holds a master's degree in economics, both from Los Andes University in Bogota. He is the author of several peer-reviewed articles and two books. His most recent book is “Sustainable Urban Transport Financing from the Sidewalk to the Subway: Capital, Operations and Maintenance Financing,” released in January 2016 in the World Bank Study series. He is currently finishing research on Smart Cities, Intelligent Transport Systems, Mobility and Energy Efficiency. He has also worked on transport and climate change issues.
