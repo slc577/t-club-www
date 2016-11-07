@@ -16,9 +16,7 @@ Contact [alexsalz@MIT.EDU](mailto:alexsalz@MIT.EDU) or [doufene@MIT.EDU](mailto:
 
 With Transportation@MIT, we present seminars by MIT faculty and external guests on innovative topics in the transportation field.
 
-Our next upcoming seminar is on **Friday, March 18** featuring Arturo Ardila-Gomez, Ph.D. '04 MCP '97 from the World Bank. The topic is sustainable urban transport financing. Find more information [here]({filename}/2016-03-18-arturo-ardila-gomez.md).
-
-<img class="center" src="/image/seminar5.jpg" alt="Arturo Ardila-Gomez" style="width:635px"/>
+Our next upcoming seminar is on **Thursday, April 21** featuring Andrew Salzberg from Uber. Find more information [here]({filename}/2016-04-21-salzberg.md).
 
 ## Transportation Showcase
 

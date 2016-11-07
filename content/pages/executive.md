@@ -1,42 +1,40 @@
 Title: Executive Board
 slug: executive
 
-![2015-2016 Executive Board](/image/board/2015-2016.jpg)
 
-## Co-Presidents: Caroline Jaffe & Alex Salz
+## Co-Presidents: Joanna Moody & Sonja Boet-Whitaker
 
-**[Caroline Jaffe]()** <[cjaffe at mit dot edu](mailto:cjaffe@MIT.EDU)> is a research assistant and S.M. candidate in the Social Computing group at the MIT Media Lab. She graduated from Yale in 2013 with a degree in Electrical Engineering and Computer Science, then spent a year in the Netherlands researching commuting behavior on a Fulbright fellowship. She has also worked as a software engineer at Fitbit, Google and Microsoft. Her research interests include bicycles, urban mobility, and maps. She is also a member of the Cambridge Bicycle Committee. 
+**Joanna Moody** <[jcmoody at mit dot edu](mailto:jcmoody@MIT.EDU)> is a third year Ph.D. candidate in the Interdisciplinary Program in Transportation. As a member of the <a href="https://mobility.mit.edu" target="_blank">JTL Urban Mobility Lab</a>, Joanna explores how implicit or subconscious biases and preferences related to car usage and ownership can influence travel behavior and impact transportation planning and operations. Also as a member of the <a href="http://web.mit.edu/hsr-group/" target="_blank">Regional Transportation and High Speed Rail Group</a>, Joanna works in collaboration with the East Japan Railway Company researching international high-speed rail developments as complex socio-technical systems, with a particular interest in how the technology and infrastructure interface with governing and managing institutions and users. At MIT, Joanna has received both a USDOT University Transportation Funding Center Fellowship (2014) and the U.S. Department of Transportation FHWA Eisenhower Graduate Fellowship (2015 and 2016). She has served as the Transportation Club VP, Transportation Showcase and as the coordinator for the MIT Center for Transportation and Logistics lecture series for the past two years. She holds a Masters of Science in Transportation degree from MIT as well as Bachelors degrees in Mathematics, Physics, and Japanese from Bates College.
 
-**[Alex Salz]()** <[alexsalz at mit dot edu](mailto:alexsalz@MIT.EDU)> is a 2nd year masters student in the transportation program. In the past he has conducted research on revenue management strategies for airlines. After interning with Uber this past summer, he is currently looking at the impact of ridesharing operators on urban parking. His favorite mode of transportation is cycling, having biked across Europe two summers ago.
+**Sonja Boet-Whitaker** <[sonjakbw at mit dot edu](mailto:sonjakbw@MIT.EDU)>
 
-## Treasurer: Patton Doyle
+## Treasurer: Scott Middleton
 
-**[Patton Doyle]()** <[doylep at mit dot edu](mailto:doylep@MIT.EDU)> is a second year Master of Science in Transportation student from Ann Arbor, Michigan. Growing up near auto-centric Detroit, he is motivated to promote public and private regional mass transportation in his home state, throughout the US, and around the globe. He has worked with Union Pacific Railroad on container security, Ford Motor Company on new mobility research, and with both non-profits and startups on urban redevelopment issues. During summer of 2015, Patton worked with the US DOT Volpe Center to support federal rulemaking. He graduated Phi Beta Kappa with a degree in Interdisciplinary Physics from the University of Michigan and was awarded the Cornwell Prize by the Physics Department for intellectual curiosity and pursuit of original research.
+**Scott Middleton** <[smiddle at mit dot edu](mailto:smiddle@MIT.EDU)> is a second year Master of Science in Transportation and Master in City Planning dual-degree student at MIT. Originally from Plainville, Connecticutt, Scott studied history and urban studies at Brown University, where he wrote his senior thesis on the impacts of deindustrialization in Southern New England. Before coming to MIT, Scott worked as a community planner at the USDOT's Volpe Center in Cambridge, MA. His work at the DOT focused on a range of transportation topics, including highway safety, environmental streamlining, and transit operations. Scott's current research interests include high-speed rail and the environmental impacts of passenger and freight transportation. Outside of academics, Scott is an avid cyclist, a mediocre runner, and a passionate traveler.
 
-## Vice President, Transportation Showcase
+## Vice President, Transportation Showcase: André Snoeck
 
-**[Joanna Moody]()** <[jcmoody at mit dot edu](mailto:jcmoody@MIT.EDU)> is a second year Master of Science in Transportation student with a Bachelor of Science in Mathematics, Physics, and Japanese from Bates College. At MIT, she has received both a USDOT University Transportation Center Fellowship and the U.S. Department of Transportation FHWA Eisenhower Graduate Fellowship. Also as a member of the [Regional Transportation and High Speed Rail Group](http://web.mit.edu/hsr-group/index.html) Joanna’s research focuses on understanding high-speed rail projects as complex socio-technical systems, with a particular interest in how the technology and infrastructure interface with governing and managing institutions and users. As a member of the JTL Urban Mobility Lab, Joanna explores how implicit or subconscious bias and preference can influence travel behavior and impact transportation planning and operations. Joanna has been accepted to take the Ph.D. qualifying exam for the interdisciplinary Transportation program in January. She plans to continue her research into the impacts of transportation systems, with a focus on stakeholder relationships and distributional considerations.
+**André Snoeck** <[asnoeck at mit dot edu](mailto:asnoeck@MIT.EDU)> is a research assistant and Ph.D. candidate in the <a href="http://megacitylab.mit.edu" target="_blank">Megacity Logistics Lab</a> at the MIT Center for Transportation and Logistics. His research focuses on the last mile of urban freight transportation and he conducts various products in cooperation with companies such as Coca-Cola, FEMSA, and AB InBev. Before coming to MIT, he received both his Bachelor's and Master's in Industrial Engineering at Eindhoven University of Technology in the Netherlands with a specialization in Operations Management and Logistics. In between, he co-founded <a href="http://www.solarteameindhoven.nl/">Solar Team Eindhoven</a> to develop Stella, the world's first solar-powered family car to show the world what the future of transportation looks like. The team won the 2013 Bridgestone World Solar Challenge, followed by the award for <a href="https://techcrunch.com/events/8th-annual-crunchies-awards/winners/" target="_blank">Best Technology Achievement</a> at the annual Silicon Valley Crunchie awards in 2015, beating Apple Pay and SpaceX.
 
-In addition to her scholarly pursuits, Joanna has interned at Cambridge Systematics and collaborated with the World Bank on a financial case study of freight rail profitability schemes for China National Railways. Joanna served as a co-coordinator of the 2015 Transportation Showcase, in charge of company outreach and career fair organization. She is currently a co-coordinator for the MIT Center for Transportation and Logistics (CTL) Distinguished Speaker Lecture Series. In addition, she has previously served as a student member of the Department of Civil and Environmental Engineering Social Committee and in April of 2015 was selected CEE Student of the Month.
+## Activities Coordinator: Felix Naser
 
-## VP Seminars: Javier De La Roca & Abdelkrim Doufene
-
-**[Abdelkrim Doufene](http://www.linkedin.com/in/abdelkrimdoufene/en)** <[doufene at mit dot edu](mailto:doufene@MIT.EDU)> is a Postdoctoral Associate in the Engineering Systems Division (ESD) at MIT. His present work focuses on the architecture of large-scale systems for water desalination and solar energy. His research interests include architecture of complex systems, decision and information systems, geographic information systems, multi-disciplinary analysis and optimization, game theory, data mining, as well as technology innovation policy.
-
-Abdelkrim obtained a Ph.D. from École Polytechnique in France in 2013. He attended Paristech doctoral program in management at the ENPC School of International Management. He holds a master degree in decision and information systems from Université Paris 1 Panthéon-Sorbonne, ESSEC and CNAM. He also graduated from Ecole Nationale Supérieure d'Informatique in Algeria as an information systems engineer.
-
-He was a research engineer at the R&D department (Electric Vehicles Program) for the automotive manufacturer Renault (2010-2013). He has also taught in different universities and schools.
-
-## Activities Coordinator: Javier Morales Sarriera
-
-**[Javier Morales Sarriera]()** <[javierms at mit dot edu](mailto:javierms@MIT.EDU)> is a second-year MST (Master of Science in Transportation) student from Porto Alegre, Brazil. Before coming to MIT, Javier received a master’s degree in economics from Centro de Estudios Monetarios y Financieros (Madrid, Spain) and worked for five years in the World Bank and in the Inter-American Development Bank in Washington DC as an infrastructure economics consultant. He was involved in the economic analysis of transport projects in different locations across Latin America. He is interested in transit policy and planning, particularly in the links between public transportation and economic development.
+**Felix Naser** <[fnaser at mit dot edu](mailto:fnaser@MIT.EDU)> is a visiting German master student (Automotive Software Engineering at Technical University of Munich) working at the newly founded Research Center for Autonomous Cars at CSAIL. His main interest is the future of mobility, especially in urban environments. He gained practical experience at BMW, Rolls-Royce Motor Cars Ltd. in Goodwood and at a car service station.
 
 ## Website & Media: Nate Bailey
 
-**[Nate Bailey](https://www.linkedin.com/in/natekbailey)** <[nbailey at mit dot edu](mailto:nbailey@MIT.EDU)> is a second-year student in the Interdepartmental Doctoral Program in Transportation. Nate previously obtained a B.S. in Industrial Engineering and Operations Research from UC Berkeley. His current research with the MIT Portugal Program focuses on the simulation of self-driving vehicles in urban traffic in order to understand their impact on traffic management strategies.
-
+**Nate Bailey** <[nbailey at mit dot edu](mailto:nbailey@MIT.EDU)> is a third-year student in the Interdepartmental Doctoral Program in Transportation. Nate previously obtained a B.S. in Industrial Engineering and Operations Research from UC Berkeley as well as a Masters of Science in Transportation from MIT. His current research focuses on combining traffic simulation of self-driving vehicles in urban traffic with queueing network models in order to understand how the presence self-driving vehicles may change the solutions to large-scale urban transportation problems.
 
 ## Previous Executive Boards
+
+### 2015-2016
+![2015-2016 Executive Board](/image/board/2015-2016.jpg)
+
+- Caroline Jaffe, SM'17 — Co-President
+- Alex Salz, MST'16 — Co-President
+- Patton Doyle, MST'16 — Treasurer
+- Joanna Moody, MST'16 — VP, Transportation Showcase
+- Javier Morales Sarriera, MST'16 — Activities Coordinator
+- Nate Bailey, MST'16 — Website & Media
 
 ### 2014-2015
 ![2014-2015 Executive Board](/image/board/2014-2015.jpg)

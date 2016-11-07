@@ -1,6 +1,30 @@
 Title: Transportation Seminar Series — Archive
 slug: past-seminars
 
+## Spring 2015
+
+### Building the New American: Key Accomplishments and Challenges in Combining the Networks and Fleets of American Airlines and US Airways
+Patrick Quayle — Managing Director, Network & Fleet Strategy, American Airlines<br/>
+Friday, March 13, 2015, at 12:00pm
+
+### Potential Value of Big Data Analytics for Transportation Systems Management
+Matthew R. Cuddy & Alexander K. Epstein — U.S. Department of Transportation, Volpe National Transportation Systems Center<br/>
+Friday, February 13, 2015, at 12:00pm
+
+## Fall 2014
+
+### Intelligent Transportation-Energy Systems for Future Large Scale Deployment of Electrified Transportation
+Amro M. Farid — Assistant Professor, Masdar Institute of Science & Technology<br/>
+Friday, December 5, 2014, at 12:00pm
+
+### Connecting Energy Supply Chain Planning with Traffic Network Equilibrium
+Yueyue Fan — Associate Professor, University of California, Davis<br/>
+Friday October 31, 2014, at 12:30pm
+
+### Toward Network Governance for Sustainability: Promoting Resilience in Energy Systems and Implications for Transportation
+Masaru Yarime — Associate Professor, University of Tokyo<br/>
+Monday September 22, 2014, at 12:30pm
+
 ## Spring 2013
 
 ### Modeling and Simulation for Future Urban Mobility

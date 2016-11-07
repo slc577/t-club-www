@@ -3,7 +3,7 @@ Title: Activities
 ## Research and Education
 
 ### Transportation Seminar Series
-*→ [2014–2015 seminars]({category}seminars)*
+*→ [2015–2016 seminars]({category}seminars)*
 
 Co-hosted by the T-Club and Transportation@MIT, our seminar series features MIT faculty and external guests on innovative topics in the transportation field. [Previous speakers]({filename}/pages/seminars.md) have included: Adam Goldstein (Co-Founder of Hipmunk), Joseph Coughlin (MIT Age Lab), Fred Salvucci (former Massachusetts Secretary of Transportation), and Robin Chase (founder of Zipcar).
 
