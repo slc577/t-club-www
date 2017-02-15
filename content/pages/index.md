@@ -12,16 +12,12 @@ The **MIT Transportation Club**—or **T-Club**—aims to bring together the tra
 Anyone can <a href="https://docs.google.com/forms/d/1gobnpPHKaP2h51ECSFJFWUi_eVNMbKUgTk8fhzc58aw/viewform" target="_blank">submit job postings or transportation-related events</a> to be included in the digest. [More information and list archives](http://mailman.mit.edu/mailman/listinfo/transportclub).
 
 ## Transportation Seminar Series
-Contact [alexsalz@MIT.EDU](mailto:alexsalz@MIT.EDU) or [doufene@MIT.EDU](mailto:doufene@MIT.EDU), and **[read more…]({category}seminars)**
-
 With Transportation@MIT, we present seminars by MIT faculty and external guests on innovative topics in the transportation field.
 
-Our next upcoming seminar is on **Thursday, April 21** featuring Andrew Salzberg from Uber. Find more information [here]({filename}/2016-04-21-salzberg.md).
+Contact [jcmoody@mit.edu](emailto:jcmoody@mit.edu) or [sonjakbw@mit.edu](mailto:sonjakbw@mit.edu) if you are interested in speaking, or **[read more…]({category}seminars)**
 
 ## Transportation Showcase
 
-The 6th Annual Transportation Showcase was held on **Wednesday, February 17, 2016** at the MIT Museum! Thanks to everyone involed, and stay tuned for updates on next year's Showcase.
+The 7th Annual Transportation Showcase will be held on **Wednesday, February 22, 2017** at the MIT Museum!
 
-<img class="center" src="/image/showcase/2016/2016-poster.png" alt="2016 Showcase Poster" style="width:635px"/>
-
-Click to **[read more…]({filename}/pages/showcase/2016.md)**
+Click to **[read more…]({filename}/pages/showcase/2017.md)**
