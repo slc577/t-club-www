@@ -45,4 +45,4 @@ The MIT Transportation Club organizes networking events in the Boston area and b
 
 ### Socials
 
-A series of social events are organized throughout the year to facilitate networking among faculty, students, and alumni with transportation interests.
+A series of social events is organized throughout the year to facilitate networking among faculty, students, and alumni with transportation interests.
