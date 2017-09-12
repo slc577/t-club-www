@@ -7,7 +7,11 @@ SITENAME = 'MIT Transportation Club'
 SITEURL = ''
 
 PATH = 'content'
-THEME = '../pelican-themes/pelican-bootstrap3'
+THEME = 'pelican-themes/pelican-bootstrap3'
+JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
+PLUGIN_PATHS = ['pelican-plugins']
+PLUGINS = ['i18n_subsites']
+
 
 CUSTOM_CSS = 'static/custom.css'
 STATIC_PATHS = ['image', 'extra/custom.css', 'extra/htaccess']

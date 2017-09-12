@@ -18,6 +18,6 @@ Contact [jcmoody@mit.edu](emailto:jcmoody@mit.edu) or [sonjakbw@mit.edu](mailto:
 
 ## Transportation Showcase
 
-The 7th Annual Transportation Showcase will be held on **Wednesday, February 22, 2017** at the MIT Museum!
+The 8<sup>th</sup> Annual Transportation Showcase will be held on **Wednesday, February 21, 2018** at the MIT Museum!
 
-Click to **[read more…]({filename}/pages/showcase/2017.md)**
+Click to **[read more…]({filename}/pages/showcase/2018.md)**
