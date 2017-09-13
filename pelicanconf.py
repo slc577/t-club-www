@@ -7,6 +7,7 @@ SITENAME = 'MIT Transportation Club'
 SITEURL = ''
 
 PATH = 'content'
+IGNORE_FILES = ['activities.md']
 THEME = 'pelican-themes/pelican-bootstrap3'
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 PLUGIN_PATHS = ['pelican-plugins']
@@ -43,7 +44,7 @@ TWITTER_USERNAME = 'TClubMIT'
 TWITTER_WIDGET_ID = '525779245268615168'
 
 MENUITEMS = (
-    ('Activities', '/activities'),
+    #('Activities', '/activities'),
     ('Executive', '/executive'),
     ('Showcase', '/showcase'),
     )

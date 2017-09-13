@@ -11,12 +11,12 @@ slug: executive
 **Laura Krull** <[lkrull at mit dot edu](mailto:lkrull@MIT.EDU)>
 
 ## Vice President, Transportation Showcase: André Snoeck
-<img class="exec_pic" src="/image/board/17-18/Andre_Snoeck.jpg">
+<img class="exec_pic" style="object-fit: cover; width: 200px; height: 200px; border-radius: 50%; margin-left: 5%;" src="/image/board/17-18/Andre_Snoeck.jpg">
 
 **André Snoeck** <[asnoeck at mit dot edu](mailto:asnoeck@MIT.EDU)> is a research assistant and Ph.D. candidate in the <a href="http://megacitylab.mit.edu" target="_blank">Megacity Logistics Lab</a> at the MIT Center for Transportation and Logistics. His research focuses on the last mile of urban freight transportation and he conducts various products in cooperation with companies such as Coca-Cola, FEMSA, and AB InBev. Before coming to MIT, he received both his Bachelor's and Master's in Industrial Engineering at Eindhoven University of Technology in the Netherlands with a specialization in Operations Management and Logistics. In between, he co-founded <a href="http://www.solarteameindhoven.nl/">Solar Team Eindhoven</a> to develop Stella, the world's first solar-powered family car to show the world what the future of transportation looks like. The team won the 2013 Bridgestone World Solar Challenge, followed by the award for <a href="https://techcrunch.com/events/8th-annual-crunchies-awards/winners/" target="_blank">Best Technology Achievement</a> at the annual Silicon Valley Crunchie awards in 2015, beating Apple Pay and SpaceX.
 
 ## Vice President, Transportation Showcase: Adham Kalila
-<img class="exec_pic" src="/image/board/17-18/Adham_Kalila.jpeg">
+<img class="exec_pic" style="object-fit: cover; width: 200px; height: 200px; border-radius: 50%; margin-left: 5%;" src="/image/board/17-18/Adham_Kalila.jpeg">
 
 **Adham Kalila** <[kalila at mit dot edu](mailto:kalila@@MIT.EDU)> is a second year master of science in transportation student. His love for transit grew after a failed attempt at studying geotechnical and structural engineering at McGill. His passion for cities meets his love for transit in <a href="http://transportforcairo.com/" target="_blank">Transport for Cairo</a>, a project he cofounded to map and research informal transportation in Cairo, Egypt where he grew up. He loves to cook, read, travel, and silently (or outwardly) judge people for incorrect grammar. You’ll love him. 
 
@@ -25,7 +25,7 @@ slug: executive
 **Ajinkya Ghorpade** <[ajinkya at mit dot edu](mailto:ajinkya@MIT.EDU)>
 
 ## Website & Media: Sharlene Chiu
-<img class="exec_pic" src="/image/board/17-18/Sharlene_Chiu.jpg">
+<img class="exec_pic" style="object-fit: cover; width: 200px; height: 200px; border-radius: 50%; margin-left: 5%;" src="/image/board/17-18/Sharlene_Chiu.jpg">
 
 **Sharlene Chiu** <[sharc at mit dot edu](mailto:sharc@MIT.EDU)> is a third-year undergraduate student pursuing a Bachelor of Science degree in Electrical Engineering and Computer Science. She first became dazzled by transportation when she worked as a research assistant for the <a href="http://senseable.mit.edu" target="_blank">Senseable City Lab</a>. Her initial project aimed to reduce traffic congestion and carbon emissions by developing a system that detects vehicles and adjusts traffic signals in real time. Currently, she's participating in the SuperUROP program, a year-long research commitment for undergraduates. Sharlene is working with the <a href="https://its.mit.edu" target="_blank">Intelligent Transportation Systems Lab</a> on a project called <a href="https://its.mit.edu/mobility-future" target="_blank">Mobility of the Future</a>, for which she will leverage her EECS background to analyze simulations and gain insight into the courses of action that cities should take to achieve positive change in traffic, emissions, and so forth.
 

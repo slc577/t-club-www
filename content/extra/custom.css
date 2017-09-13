@@ -1,6 +1,7 @@
 h2 {
 /* MIT red, for a splash of colour… */
-  color: #A80532;
+  /*color: #A80532;*/
+  color: black;
 }
 
 .center {
@@ -9,10 +10,11 @@ h2 {
     margin-right: auto;
 }
 
+/*
 img.exec_pic {
     object-fit: cover;
     width: 200px;
     height: 200px;
     border-radius: 50%;
     margin-left: 5%;
-}
+}*/
